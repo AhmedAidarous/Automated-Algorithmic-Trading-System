@@ -4,7 +4,7 @@
 The Concept of upside momentum is illustrated in the following example the following diagram shows this:
 <br>
 ![](https://useruploads.socratic.org/LlKPleE4RPiV91s5FfxA_PR1.gif)
-When a ball is thrown into the air, it begins it’s trajectory at a very first place; i.e. it possesses strong momentum. The speed at which the ball rises gradually diminishes, until it finally comes to a temporary standstill. <br>
+<br>When a ball is thrown into the air, it begins it’s trajectory at a very first place; i.e. it possesses strong momentum. The speed at which the ball rises gradually diminishes, until it finally comes to a temporary standstill. <br>
 This slowing-down process, known as a loss of upward momentum, is a phenomenon is also experienced in financial markets. The flight of a ball can be equated to a market price. The price’s rate of advance begins to slow down noticeably before the ultimate peak in prices is reached.
 
 
